@@ -35,10 +35,6 @@ Repositório de documentação do projeto EDUCA!
 
 # 👨‍💻 Time
 
-| [<img src="https://avatars.githubusercontent.com/u/106445568?v=4" width=115><br><sub>Anderson Corrêa</sub>](https://github.com/Anderson-Andy-Correa) | [<img src="https://avatars.githubusercontent.com/u/129698712?v=4" width=115><br><sub>André Felippe Loppnow</sub>](https://github.com/AndreLoppnow) | [<img src="https://avatars.githubusercontent.com/u/107879273?v=4" width=115><br><sub>Bruno Camilo</sub>](https://github.com/Brunovski28) | [<img src="https://avatars.githubusercontent.com/u/132109162?v=4" width=115><br><sub>Cauã Lucas Leão Rodrigues</sub>](https://github.com/cauallr) | [<img src="https://avatars.githubusercontent.com/u/128434647?v=4" width=115><br><sub>Gabriel Faustino Poleza</sub>](https://github.com/gabrielpoleza) | [<img src="https://avatars.githubusercontent.com/u/174223812?v=4" width=115><br><sub>João Victor Furquim de Arruda</sub>](https://github.com/joao4rruda) | [<img src="https://avatars.githubusercontent.com/u/107898034?v=4" width=115><br><sub>Lucas Longo</sub>](https://github.com/2005LucasLongo) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-
 <table style="table-layout: fixed; width: 100%;">
   <tr>
     <td align="center" valign="middle" style="width: 115px; height: 150px;">
