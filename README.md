@@ -35,48 +35,52 @@ Repositório de documentação do projeto EDUCA!
 
 # 👨‍💻 Time
 
-<table>
+| [<img src="https://avatars.githubusercontent.com/u/106445568?v=4" width=115><br><sub>Anderson Corrêa</sub>](https://github.com/Anderson-Andy-Correa) | [<img src="https://avatars.githubusercontent.com/u/129698712?v=4" width=115><br><sub>André Felippe Loppnow</sub>](https://github.com/AndreLoppnow) | [<img src="https://avatars.githubusercontent.com/u/107879273?v=4" width=115><br><sub>Bruno Camilo</sub>](https://github.com/Brunovski28) | [<img src="https://avatars.githubusercontent.com/u/132109162?v=4" width=115><br><sub>Cauã Lucas Leão Rodrigues</sub>](https://github.com/cauallr) | [<img src="https://avatars.githubusercontent.com/u/128434647?v=4" width=115><br><sub>Gabriel Faustino Poleza</sub>](https://github.com/gabrielpoleza) | [<img src="https://avatars.githubusercontent.com/u/174223812?v=4" width=115><br><sub>João Victor Furquim de Arruda</sub>](https://github.com/joao4rruda) | [<img src="https://avatars.githubusercontent.com/u/107898034?v=4" width=115><br><sub>Lucas Longo</sub>](https://github.com/2005LucasLongo) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+
+<table style="table-layout: fixed; width: 100%;">
   <tr>
-    <td align="center">
+    <td align="center" valign="middle" style="width: 115px; height: 150px;">
       <a href="https://github.com/Anderson-Andy-Correa">
-        <img src="https://avatars.githubusercontent.com/u/106445568?v=4" width="115">
-        <sub>Anderson Corrêa</sub>
+        <img src="https://avatars.githubusercontent.com/u/106445568?v=4" width="115" style="display:block;margin:auto;">
+        <br><sub>Anderson Corrêa</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" valign="middle" style="width: 115px; height: 150px;">
       <a href="https://github.com/AndreLoppnow">
-        <img src="https://avatars.githubusercontent.com/u/129698712?v=4" width="115">
-        <sub>André Felippe Loppnow</sub>
+        <img src="https://avatars.githubusercontent.com/u/129698712?v=4" width="115" style="display:block;margin:auto;">
+        <br><sub>André Felippe Loppnow</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" valign="middle" style="width: 115px; height: 150px;">
       <a href="https://github.com/Brunovski28">
-        <img src="https://avatars.githubusercontent.com/u/107879273?v=4" width="115">
-        <sub>Bruno Camilo</sub>
+        <img src="https://avatars.githubusercontent.com/u/107879273?v=4" width="115" style="display:block;margin:auto;">
+        <br><sub>Bruno Camilo</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" valign="middle" style="width: 115px; height: 150px;">
       <a href="https://github.com/cauallr">
-        <img src="https://avatars.githubusercontent.com/u/132109162?v=4" width="115">
-        <sub>Cauã Lucas Leão Rodrigues</sub>
+        <img src="https://avatars.githubusercontent.com/u/132109162?v=4" width="115" style="display:block;margin:auto;">
+        <br><sub>Cauã Lucas Leão Rodrigues</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" valign="middle" style="width: 115px; height: 150px;">
       <a href="https://github.com/gabrielpoleza">
-        <img src="https://avatars.githubusercontent.com/u/128434647?v=4" width="115">
-        <sub>Gabriel Faustino Poleza</sub>
+        <img src="https://avatars.githubusercontent.com/u/128434647?v=4" width="115" style="display:block;margin:auto;">
+        <br><sub>Gabriel Faustino Poleza</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" valign="middle" style="width: 115px; height: 150px;">
       <a href="https://github.com/joao4rruda">
-        <img src="https://avatars.githubusercontent.com/u/174223812?v=4" width="115">
-        <sub>João Victor Furquim de Arruda</sub>
+        <img src="https://avatars.githubusercontent.com/u/174223812?v=4" width="115" style="display:block;margin:auto;">
+        <br><sub>João Victor Furquim de Arruda</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" valign="middle" style="width: 115px; height: 150px;">
       <a href="https://github.com/2005LucasLongo">
-        <img src="https://avatars.githubusercontent.com/u/107898034?v=4" width="115">
-        <sub>Lucas Longo</sub>
+        <img src="https://avatars.githubusercontent.com/u/107898034?v=4" width="115" style="display:block;margin:auto;">
+        <br><sub>Lucas Longo</sub>
       </a>
     </td>
   </tr>
