@@ -9,25 +9,33 @@ Repositório de documentação do projeto EDUCA!
 <div align="center" text-align="center">
   <table>
     <tr>
-        <th style="text-align: center;">Cypress</th>
-        <th style="text-align: center;">Jmeter</th>
         <th style="text-align: center;">Word</th>
+        <th style="text-align: center;">Draw.io</th>
+        <th style="text-align: center;">BR Modelo</th>
+        <th style="text-align: center;">Figma</th>
+        <th style="text-align: center;">Trello</th>
     </tr>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/2801156/153322291-8b186487-5127-48f7-aa6d-b0ef350f8575.png" alt="Cypress_Logo" width="50" height="50"/>
-      </td>
-      <td>
-        <img src="https://jmeter.apache.org/images/logo.svg" alt="Jmeter_logo" height="50"/>
-      </td>
+    <tr align="center">
       <td>
         <img src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-0.png" alt="Word_logo" height="50"/>
+      </td>
+      <td>
+        <img src="https://static-00.iconduck.com/assets.00/file-type-drawio-icon-512x512-2xmddtvm.png" alt="Draw.io_logo" height="50"/>
+      </td>
+      <td>
+        <img src="https://avatars.githubusercontent.com/u/66977729?s=200&v=4" alt="BR_Modelo_logo" height="50"/>
+      </td>
+      <td>
+        <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" alt="Figma_logo" height="50"/>
+      </td>
+      <td>
+        <img src="https://icon-library.com/images/trello-icon-png/trello-icon-png-5.jpg" alt="Trello_logo" height="50"/>
       </td>
     </tr>
   </table>
 </div>
 
-## 📘 Aulas
+## 📘 Documentação
 
 *Em Construção*
 
